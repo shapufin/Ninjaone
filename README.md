@@ -1,4 +1,4 @@
-# NinjaOne Agent in Docker for FreeBSD
+# NinjaOne Agent in Docker for Debian
 
 This project enables running the NinjaOne monitoring agent on FreeBSD systems using Docker containerization. Since NinjaOne doesn't provide native FreeBSD support, we use an Ubuntu container to bridge this compatibility gap.
 
