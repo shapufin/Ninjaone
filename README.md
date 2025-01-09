@@ -6,7 +6,7 @@ This project enables running the NinjaOne monitoring agent on FreeBSD systems us
 
 ### Core Components and Their Interactions
 
-1. **Base System (FreeBSD Host)**
+1. **Base System (Debuan Host)**
    - Runs the Docker environment
    - Provides system resources and metrics
    - Hosts the container runtime
